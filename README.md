@@ -30,6 +30,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - VcFollowUser: https://github.com/D3SOX/vc-followUser
 - Vencord Perf: https://github.com/voidfill/vencord-perf
 - Who the hell was that: https://github.com/Ewan-Selkirk/VencordPlugins/
+- Platform Spoofer: https://github.com/dragdotpng/Vencord/blob/b987ec4124219257409e9da1946e6b849f4e0f61/src/plugins/platformSpoofer/
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
