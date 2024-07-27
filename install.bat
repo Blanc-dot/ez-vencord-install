@@ -76,30 +76,30 @@ cd /d "%~dp0"
 
 net file 1>NUL 2>NUL
 if not '%errorlevel%' == '0' (
-	if not exist "%~dp0\Vencord\" (
-		echo cloning vencord repo...
+	if not exist "%~dp0\Equicord\" (
+		echo cloning equicord repo...
 		
-		git clone https://github.com/Vendicated/Vencord
-		cd Vencord
+		git clone https://github.com/Equicord/Equicord
+		cd Equicord
 	) else (
-		cd Vencord
-		echo updating local vencord repo
+		cd Equicord
+		echo updating local equicord repo
 		git pull
 	)
 
-	echo installing vencord dependencies...
+	echo installing equicord dependencies...
 	cmd /c pnpm install --frozen-lockfile
 	
-	if exist "%~dp0\Vencord\src\userplugins" (
-		rd /s /q "%~dp0\Vencord\src\userplugins"
+	if exist "%~dp0\Equicord\src\userplugins" (
+		rd /s /q "%~dp0\Equicord\src\userplugins"
 	)
 	echo copying patches to src...
-	xcopy "%~dp0\patches\src" "%~dp0\Vencord\src" /E /H /C /I /Y
+	xcopy "%~dp0\patches\src" "%~dp0\Equicord\src" /E /H /C /I /Y
 
-	echo building vencord...
+	echo building equicord...
 	cmd /c pnpm build
 
-	echo injecting vencord..
+	echo injecting equicord..
 	cmd /c pnpm inject
 	exit
 ) else (
