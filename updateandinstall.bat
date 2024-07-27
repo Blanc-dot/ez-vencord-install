@@ -55,7 +55,7 @@ title vencord install script by @BlueberryWolfi
 if not exist "%~dp0\.git" (
     echo git not exist
     cmd /c git init
-    cmd /c git remote add origin https://github.com/BlueberryWolf/ez-vencord-install
+    cmd /c git remote add origin https://github.com/Blanc-Dot/ez-vencord-install
     cmd /c git fetch origin main
     cmd /c git checkout -f -b main origin/main
     cmd /c git pull
