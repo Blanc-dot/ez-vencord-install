@@ -26,6 +26,10 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - MessageLogger Enhanced: https://github.com/Syncxv/vc-message-logger-enhanced
 - Gif Collections: https://github.com/Syncxv/vc-gif-collections
 - Timezones: https://github.com/Syncxv/vc-timezones
+- SteamStatusSync: https://github.com/hauntii/vencord-steamStatusSync
+- VcFollowUser: https://github.com/D3SOX/vc-followUser
+- Vencord Perf: https://github.com/voidfill/vencord-perf
+- Who the hell was that: https://github.com/Ewan-Selkirk/VencordPlugins/
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
