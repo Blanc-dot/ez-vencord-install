@@ -3,7 +3,7 @@ set gitinstalled=no
 set chocoinstalled=no
 set scriptdir="%~dp0%~nx0"
 
-title vencord install script by @BlueberryWolfi
+title equicord install script by @BlueberryWolfi
 goto checkprivileges
 
 :UACEXIT
@@ -48,7 +48,7 @@ call "%~dp0\lib\resetvars.bat"
 goto checkDependencies
 exit /B 0
 
-title vencord install script by @BlueberryWolfi
+title equicord install script by @BlueberryWolfi
 
 
 :updaterepo
@@ -56,16 +56,16 @@ if not exist "%~dp0\.git" (
     echo git not exist
     cmd /c git init
     cmd /c git remote add origin https://github.com/Blanc-Dot/ez-vencord-install
-    cmd /c git fetch origin main
-    cmd /c git checkout -f -b main origin/main
+    cmd /c git fetch origin equicord
+    cmd /c git checkout -f -b equicord origin/equicord
     cmd /c git pull
-    echo updated, press any key to install vencord
+    echo updated, press any key to install equicord
     pause >nul
     start cmd.exe /k install.bat
     exit
 ) else (
     cmd /c git pull
-    echo updated, press any key to install vencord
+    echo updated, press any key to install equicord
     pause >nul
     start cmd.exe /k install.bat
     exit
