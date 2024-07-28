@@ -28,6 +28,7 @@ The plugins I added are: BetterMicrophone, BetterScreenshare, Gif Collections, S
 - VcFollowUser: https://github.com/D3SOX/vc-followUser
 - Vencord Perf: https://github.com/voidfill/vencord-perf
 - Who the hell was that: https://github.com/Ewan-Selkirk/VencordPlugins/
+- Stalker Plugin (for schizo's): https://github.com/zastlx/vc-stalker-plugin
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
