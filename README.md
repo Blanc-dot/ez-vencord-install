@@ -36,6 +36,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - Blur Medias - https://github.com/Walkoud/BlurMedias
 - Login with QR - https://github.com/nexpid/LoginWithQR
 - Multi Stickers - https://github.com/voidfill/multistickers
+- askMetoMute - https://github.com/Sqaaakoi/Vencord
 
 
 #### Additional contributions
