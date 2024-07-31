@@ -32,6 +32,11 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - Who the hell was that: https://github.com/Ewan-Selkirk/VencordPlugins/
 - Platform Spoofer: https://github.com/dragdotpng/Vencord/blob/b987ec4124219257409e9da1946e6b849f4e0f61/src/plugins/platformSpoofer/
 - Stalker Plugin (for schizo's): https://github.com/zastlx/vc-stalker-plugin
+- Dead Members & Anammox - https://github.com/Kyuuhachi/VencordPlugins
+- Blur Medias - https://github.com/Walkoud/BlurMedias
+- Login with QR - https://github.com/nexpid/LoginWithQR
+- Multi Stickers - https://github.com/voidfill/multistickers
+
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
