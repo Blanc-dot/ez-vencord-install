@@ -31,6 +31,7 @@ The plugins I added are: BetterMicrophone, BetterScreenshare, Gif Collections, S
 - Stalker Plugin (for schizo's): https://github.com/zastlx/vc-stalker-plugin
 - Blur Medias - https://github.com/Walkoud/BlurMedias
 - Multi Stickers - https://github.com/voidfill/multistickers
+- askMetoMute - https://github.com/Sqaaakoi/Vencord
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
