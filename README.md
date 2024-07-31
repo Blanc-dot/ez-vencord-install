@@ -6,7 +6,8 @@ vencord installer with stereo and other stuff (from philhk)
 * If you have an outdated version of node.js, the script will not update it. If you run into issues, uninstall node.js and run the script again, it'll automatically install the latest version.
 
 # Instructions:
-1. either clone the repo (git clone https://github.com/BlueberryWolf/ez-vencord-install), or download and extract the files of the repo
+1. either clone the repo (git clone https://github.com/Blanc-dot/ez-vencord-install), or download and extract the files of the repo
+1b. git clone https://github.com/Blanc-dot/ez-vencord-install.git, cd ez-vencord-install, git checkout equicord for equicord branch of this repo
 
 ### if cloned from repo (git clone):
 2. run updateandinstall.bat
