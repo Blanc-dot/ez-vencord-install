@@ -23,7 +23,6 @@ The plugins I added are: BetterMicrophone, BetterScreenshare, Gif Collections, S
 ## Credits
 - Equicord: https://github.com/Equicord/Equicord
 - Stereo/Screenshare: https://github.com/philhk/Vencord
-- Gif Collections: https://github.com/Syncxv/vc-gif-collections
 - SteamStatusSync: https://github.com/hauntii/vencord-steamStatusSync
 - VcFollowUser: https://github.com/D3SOX/vc-followUser
 - Vencord Perf: https://github.com/voidfill/vencord-perf
