@@ -7,7 +7,8 @@ vencord installer with stereo and other stuff (from philhk)
 
 # Instructions:
 1. either clone the repo (git clone https://github.com/Blanc-dot/ez-vencord-install), or download and extract the files of the repo
-1b. git clone https://github.com/Blanc-dot/ez-vencord-install.git, cd ez-vencord-install, git checkout equicord for equicord branch of this repo
+
+1b. git clone --branch equicord --single-branch https://github.com/blanc-dot/ez-vencord-install ez-equicord-install , for the equicord branch of this repo
 
 ### if cloned from repo (git clone):
 2. run updateandinstall.bat
