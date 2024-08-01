@@ -38,7 +38,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - Login with QR - https://github.com/nexpid/LoginWithQR
 - Multi Stickers - https://github.com/voidfill/multistickers
 - askMetoMute - https://github.com/Sqaaakoi/Vencord
-
+- impersonate - https://github.com/Eazvy/VencordLib/tree/main/Plugins/impersonate
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
