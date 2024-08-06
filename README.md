@@ -24,7 +24,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 
 ## Credits
 - Vencord: https://github.com/vendicated/vencord
-- Stereo/Screenshare: https://github.com/philhk/Vencord
+- Stereo/Screenshare: https://github.com/philhk/Vencord (fixes from @Loukious/Vencord)
 - MessageLogger Enhanced: https://github.com/Syncxv/vc-message-logger-enhanced
 - Timezones: https://github.com/Syncxv/vc-timezones
 - SteamStatusSync: https://github.com/hauntii/vencord-steamStatusSync
