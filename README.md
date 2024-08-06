@@ -40,13 +40,15 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - askMetoMute - https://github.com/Sqaaakoi/Vencord
 - impersonate - https://github.com/Eazvy/VencordLib/tree/main/Plugins/impersonate
 - userpfp - https://github.com/UserPFP/vencordplugin
-
-# will add repo credits soon, got to refind cause pepega and forgot to bookmark
-- platformswitch -
-- annoiler -
-- automute -
-- lastonline -
+- automute - https://github.com/Sqaaakoi/Vencord
 
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
+
+
+## might not be proper credits, but where i found it
+- platformswitch - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/PlatformSwitch
+- annoiler - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/annoiler
+- lastonline - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/lastOnline
+
