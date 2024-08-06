@@ -41,6 +41,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - impersonate - https://github.com/Eazvy/VencordLib/tree/main/Plugins/impersonate
 - userpfp - https://github.com/UserPFP/vencordplugin
 - automute - https://github.com/Sqaaakoi/Vencord
+- new plugin manager - https://github.com/Sqaaakoi/vc-newPluginsManager
 
 
 #### Additional contributions
