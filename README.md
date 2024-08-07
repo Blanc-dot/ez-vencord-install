@@ -42,6 +42,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - userpfp - https://github.com/UserPFP/vencordplugin
 - automute - https://github.com/Sqaaakoi/Vencord
 - new plugin manager - https://github.com/Sqaaakoi/vc-newPluginsManager
+- reactionlogger - https://github.com/Faf4a/plugins
 
 
 #### Additional contributions
@@ -52,4 +53,5 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - platformswitch - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/PlatformSwitch
 - annoiler - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/annoiler
 - lastonline - https://github.com/RobinRMC/VencordPlus/tree/main/src/plusplugins/lastOnline
+- bypassdnd - https://github.com/Slightlyxz/lemon/blob/ece75325f585dca1bcdb445525343635008d6887/src/userplugins/bypassDND/index.tsx
 
