@@ -43,7 +43,7 @@ The plugins I added are: MessageLoggerEnhanced, BetterMicrophone, BetterScreensh
 - automute - https://github.com/Sqaaakoi/Vencord
 - new plugin manager - https://github.com/Sqaaakoi/vc-newPluginsManager
 - reactionlogger - https://github.com/Faf4a/plugins
-
+- soundboardlogger - https://github.com/ImpishMoxxie/SoundBoardLogger (fixed version from suncord repo)
 
 #### Additional contributions
 - FakeDeafen: Made for this repository by [MisleadingName](https://github.com/misleadingname)
